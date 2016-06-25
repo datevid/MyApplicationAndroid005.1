@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Aplicacion</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Bienvenido</string>
+    <string name="bEntrar">Entrar</string>
+</resources>
